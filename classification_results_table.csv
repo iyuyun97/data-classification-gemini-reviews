@@ -1,0 +1,21 @@
+Review #,Sentiment,Categories
+1,Positive,
+2,Positive,
+3,Negative,"Camera, Hardware Issues"
+4,Positive,
+5,Positive,Battery Life
+6,Mixed,Brand
+7,Negative,
+8,Negative,"Overheating, Hardware Issues"
+9,Mixed,*(Insufficient information to classify as purely positive or negative)*
+10,Positive,
+11,Mixed,"Calling, Texting, Radio *(Mixed because while it mentions positive features, the overall sentiment isn't explicitly stated.)*"
+12,Positive,
+13,Negative,
+14,Negative,
+15,Mixed,*(Insufficient information; needs more context)*
+16,Negative,Network Connectivity
+17,Negative,
+18,Positive,"Shipping, Charging, Screen Size"
+19,Mixed,*(Unclear what 112 represents)*
+20,Positive,
